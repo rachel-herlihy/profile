@@ -1,6 +1,7 @@
 body {
   font-family:'Roboto', sans-serif;
-  color:rgb(10, 10, 10);
+ /* color:rgb(10, 10, 10);*/
+  color:#7D80DA;
   font-size:17px;
   line-height:1.8;
   font-weight:100;
@@ -9,12 +10,6 @@ body {
 h2 {
   text-decoration:none;
   color:#7D80DA;
-  font-family:'Poppins';
-}
-
-h2-white {
-  text-decoration:none;
-  color:white;
   font-family:'Poppins';
 }
 
