@@ -12,6 +12,12 @@ h2 {
   font-family:'Poppins';
 }
 
+h2-white {
+  text-decoration:none;
+  color:white;
+  font-family:'Poppins';
+}
+
 a {
   color:#C2EABD;
   text-decoration: none;
