@@ -13,6 +13,14 @@ h2 {
   font-family:'Poppins';
 }
 
+p {
+  font-family:'Roboto', sans-serif;
+  color:rgb(10, 10, 10);
+  font-size:17px;
+  line-height:1.8;
+  font-weight:100;
+}
+
 a {
   color:#C2EABD;
   text-decoration: none;
